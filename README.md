@@ -3,7 +3,7 @@
 FlareMaze is a simple maze game built using Flutter and GetX for state management. The game generates random mazes and allows the player to navigate from the start point to the end point.
 
 <p align="center">
-  <a href="https://github.com/Hmmza-tariq/Flutter-flare-maze/blob/main/apk/apk_release.apk">
+  <a https://github.com/Hmmza-tariq/Flutter-flare-maze/blob/main/apk%2Fapp-release.apk>
     <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
   </a>
 </p>
