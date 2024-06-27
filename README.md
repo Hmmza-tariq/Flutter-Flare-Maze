@@ -7,6 +7,7 @@ FlareMaze is a simple maze game built using Flutter and GetX for state managemen
     <img src="https://img.shields.io/badge/Download-Apk-purple.svg">
   </a>
 </p>
+
 |||
 |--------------|--------------|
 | ![Screenshot 1](assets/images/ss_1.png) | ![Screenshot 2](assets/images/ss_4.png) |
